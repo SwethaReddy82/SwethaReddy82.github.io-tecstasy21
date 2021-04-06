@@ -18,6 +18,152 @@ body {
   height: 100%;
 }
 
+@media (min-height: 568px) {
+    body {
+        margin: 0;
+        padding: 0;
+        height: 1220vh;
+    }
+}
+
+@media (min-width: 360px) {
+    body {
+        margin: 0;
+        padding: 0;
+        height: 1080vh;
+    }
+}
+
+@media (min-width: 500px) {
+    body {
+        margin: 0;
+        padding: 0;
+        height: 1080vh;
+    }
+}
+
+@media (min-width: 640px) {
+    body {
+        margin: 0;
+        padding: 0;
+        height: 410vh;
+    }
+}
+
+@media (min-width:960px) {
+    body {
+        margin: 0;
+        padding: 0;
+        height: 410vh;
+    }
+}
+
+@media (min-width:1100px) {
+    body {
+        margin: 0;
+        padding: 0;
+        height: 410vh;
+    }
+}
+
+@media (min-height: 667px) {
+    body {
+        margin: 0;
+        padding: 0;
+        height: 1040vh;
+    }
+}
+
+@media (min-height: 736px) {
+    body {
+        margin: 0;
+        padding: 0;
+        height: 943vh;
+    }
+}
+
+@media (min-height: 800px) {
+    body {
+        margin: 0;
+        padding: 0;
+        height: 820vh;
+    }
+}
+
+@media (min-height: 812px) {
+    body {
+        margin: 0;
+        padding: 0;
+        height: 790vh;
+    }
+}
+
+@media (min-height: 869px) {
+    body {
+        margin: 0;
+        padding: 0;
+        height: 775vh;
+    }
+}
+
+@media (min-height: 892px) {
+    body {
+        margin: 0;
+        padding: 0;
+        height: 750vh;
+    }
+}
+
+@media (min-height: 1024px) {
+    body {
+        margin: 0;
+        padding: 0;
+        height: 680vh;
+    }
+}
+
+@media (min-height:1080px) {
+    body {
+        margin: 0;
+        padding: 0;
+        height: 245vh;
+    }
+}
+
+@media (min-height:1300px) {
+    body {
+        margin: 0;
+        padding: 0;
+        height: 193vh;
+    }
+}
+
+#particles-js {
+    height: 100%;
+    background: rgb(0, 0, 0);
+}
+
+@media screen and (max-width: 320px) {
+    .back img {
+        position: absolute;
+        top: 80px;
+        left: 5px;
+        width: 30px;
+        height: 40px;
+    }
+}
+
+@media screen and (min-width: 321px) {
+    .back img {
+        position: absolute;
+        top: 80px;
+        left: 30px;
+        width: 30px;
+        height: 40px;
+    }
+}
+
+
 #page {
   position: relative;
   overflow-x: hidden;
