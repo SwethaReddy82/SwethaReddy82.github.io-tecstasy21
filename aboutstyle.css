@@ -7,7 +7,6 @@
 	font-family: 'Poppins',sans-serif;
 
 }
-
 body h1{
     font-size: 4em;
     text-align: center;
@@ -50,7 +49,6 @@ body::after
 	background: linear-gradient(#2196f3,#e91e63);
 	clip-path: circle(30% at 10% 10%);
 }
-
 .container{
 	position: relative;
 	display: flex;
@@ -124,8 +122,8 @@ body::after
 {
 	position: relative;
 	display: inline-block;
-	padding: 8px 20px;
-	margin-top:5px;
+	padding: 6px 20px;
+	margin-top:10px;
 	background: #fff;
 	color: #000;
 	border-radius: 20px;
